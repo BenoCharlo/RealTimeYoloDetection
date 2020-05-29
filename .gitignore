@@ -1,0 +1,11 @@
+#local virtualenv
+impYoloEnv/
+
+# vscode
+.vscode/
+
+#Mac
+.DS_Store
+
+#python related
+__pycache__/
